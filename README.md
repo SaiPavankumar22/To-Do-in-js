@@ -23,7 +23,7 @@ A simple command-line-based **To-Do Manager** that helps users organize and mana
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/todo-manager.git
+   git clone https://github.com/SaiPavankumar22/todo-manager.git
    ```
 2. Navigate to the project directory:
    ```bash
